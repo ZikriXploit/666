@@ -89,7 +89,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`CAF-ID`](https://github.com/CAF-ID)
 * [`bintang`](https://github.com/Bintangp02)
 * [`ArullOfc`](https://github.com/Warikrr)
-* [`Naze Dev`](https://github.com/nazedev)
+* [`Zikri`](https://github.com/ZikriXploit)
 
 ```Thanks to all who have participated in the development of this script```
 
@@ -97,4 +97,4 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me:
-* [`Saweria`](https://saweria.co/4ksanzz)
+* [`WhatsApp`](https://wa.me/6282311414895)
