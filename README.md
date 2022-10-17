@@ -1,9 +1,9 @@
 # CATATAN ( NOTE )
-sc ini hanyalah hasil recode dari sc asli hisoka
-naze hanya menghilangkat bug, memperbagus & menyeting banyak hal
+sc ini hanyalah hasil recode dari sc asli zikri
+zikri hanya menghilangkat bug, memperbagus & menyeting banyak hal
 agar tidak terjadi error
 
-#NazeMD
+#zk666ry
 Script WhatsApp Bot Multi Device
 
 ## NOTE
@@ -12,7 +12,7 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 <p align="center">
 	<img src="https://telegra.ph/file/e661734204ce5f21b185b.png" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">NAZE DEV</h1>
+<h1 align="center">zk666ry</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
@@ -31,8 +31,8 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git clone https://github.com/nazedev/naze-md
-cd naze
+git clone https://github.com/ZikriXploit/666
+cd 666
 npm install
 ```
 
@@ -52,8 +52,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/nazedev/naze-md
-cd naze
+git clone https://github.com/ZikriXploit/666
+cd 666
 npm install
 ```
 
