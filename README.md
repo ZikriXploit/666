@@ -10,7 +10,7 @@ Script WhatsApp Bot Multi Device
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://ibb.co/Z6PsQz5" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://i.ibb.co/tMtf0pg/1665851154225.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">zk666ry</h1>
 
